@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3986becfbf9e8fee","x":-256,"y":-171,"width":250,"height":172,"type":"text","text":"# 预设谬误\n>前提或许与结论相干，但这种相干似乎是来自那种不为人支持，甚至是不可支持的隐含假定"},
+		{"id":"46cb3d372a9f630e","x":-490,"y":112,"width":250,"height":214,"type":"text","text":"## 偶然谬误\n>有的正确的结论不适用与一些特殊的环境，所以此时使用这些概括时就会犯偶然谬误\n>`经验教导我们即便是最普遍适用或最有用的归纳也可能会有特例，而这些特例正是我们所要警惕的`"},
+		{"id":"9c66d7e76aa2be10","x":-185,"y":119,"width":250,"height":326,"type":"text","text":"## 复杂问句\n>以问句的形式提出一个并没有经过论证的观点\n>`经验教导我们即便是最普遍适用或最有用的归纳也可能会有特例，而这些特例正是我们所要警惕的`假定了预期税负是不公平的，又假定了租赁但不拥有住房的那些人并不受物业税的增长的影响\n>\n"},
+		{"id":"ebc8a28ea101ec63","x":86,"y":127,"width":250,"height":318,"type":"text","text":"## 丐题\n>假定了某人所要寻求证明的论题之真的错误\n>`因为A是A,所以A是A`"}
+	],
+	"edges":[
+		{"id":"e8b86e0da0e5cd8d","fromNode":"3986becfbf9e8fee","fromSide":"bottom","toNode":"46cb3d372a9f630e","toSide":"top"},
+		{"id":"107c7ff919d9afd3","fromNode":"3986becfbf9e8fee","fromSide":"bottom","toNode":"9c66d7e76aa2be10","toSide":"top"},
+		{"id":"2689a90f61d962d1","fromNode":"3986becfbf9e8fee","fromSide":"bottom","toNode":"ebc8a28ea101ec63","toSide":"top"}
+	]
+}

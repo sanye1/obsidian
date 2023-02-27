@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"83cad452ac56ed47","x":-464,"y":79,"width":250,"height":154,"type":"text","text":"#### 图示法能够帮助理解，一旦有多种因果关系纠缠在一起的推理，图示法的帮助会很大\n"},
+		{"id":"52e037cd219710e3","x":-161,"y":79,"width":250,"height":221,"type":"text","text":"#### 图示法也能够清楚的表示多个并不完全并列的论证，换句话说，该论证并不是直接作用于结果，而是作用于另外的前提，来支持结果"},
+		{"id":"5137f76ae35ddbfa","x":146,"y":79,"width":248,"height":341,"type":"text","text":"#### 有时候论证结果是多个前提互相作用之后提供饿论证支持。\n>通用汽车公司靠新车和融资的贷款赚钱（当他们赚钱的时候）。②与此不同，汽车经销商的大部分利润都来自旧汽车维修和二手汽车销售。③因此，汽车制造商衰落之时，汽车经销商却能走向繁荣。[插图]"},
+		{"id":"d66c0679aff93dfd","x":-161,"y":-419,"width":250,"height":144,"type":"text","text":"### 当一段话中包含多个论证，和若干并不关联的命题时，图示法更为有效"},
+		{"id":"7d6ad71ad77537f7","x":-36,"y":-179,"width":250,"height":96,"type":"text","text":"## 图示法的优点\n>逻辑学导论2.2"},
+		{"id":"858902d2a43aa13c","x":214,"y":-377,"width":250,"height":138,"type":"text","text":"#### 同一个命题既可以作为结论也可以作为前提"}
+	],
+	"edges":[
+		{"id":"db817438d79ff8ee","fromNode":"7d6ad71ad77537f7","fromSide":"bottom","toNode":"83cad452ac56ed47","toSide":"top"},
+		{"id":"9c4d42bdda633669","fromNode":"7d6ad71ad77537f7","fromSide":"bottom","toNode":"52e037cd219710e3","toSide":"top"},
+		{"id":"0e8a54a92abcdea4","fromNode":"7d6ad71ad77537f7","fromSide":"bottom","toNode":"5137f76ae35ddbfa","toSide":"top"},
+		{"id":"c98e9213e00f2dc3","fromNode":"d66c0679aff93dfd","fromSide":"bottom","toNode":"7d6ad71ad77537f7","toSide":"top"}
+	]
+}

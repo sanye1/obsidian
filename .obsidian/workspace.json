@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "89413cf85e6afef1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6a06d685c6e59a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30b4e6b9f1d8a24f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "33c0d4a55ccbdfb4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "逻辑导论/相干谬误.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "1e8da9b2052f51a3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "逻辑导论/图示法.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0.5,
+                  "zoom": -0.16703594050807533,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "a1602bb3e84aa753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "卡片笔记学习法/意志力.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a43a64196d4c665c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d53cbe817eb534c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c94a7cc5925ca4b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee6356144114fcfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#主要是英语环境",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f3b012cea5631cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d632278f45a36195",
+    "type": "split",
+    "children": [
+      {
+        "id": "1be6fbee4607294d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb42dfd1eb8c3933",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "卡片笔记学习法/意志力.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "736923ba7f8587f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "卡片笔记学习法/意志力.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85594746372d97b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "790afcdf66a93778",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "卡片笔记学习法/意志力.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "a1602bb3e84aa753",
+  "lastOpenFiles": [
+    "技术观测.md",
+    "卡片笔记学习法/意志力.md",
+    "卡片笔记学习法/笔记的作用.md",
+    "逻辑导论/含混谬误.canvas",
+    "逻辑导论/图示法.canvas",
+    "逻辑导论/预设谬误.canvas",
+    "逻辑导论/相干谬误.canvas",
+    "逻辑导论/不当归纳谬误.canvas",
+    "逻辑导论.canvas",
+    "卡片笔记学习法.canvas"
+  ]
+}

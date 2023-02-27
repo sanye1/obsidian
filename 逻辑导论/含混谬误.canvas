@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"53e0942cce20abcf","x":-211,"y":-261,"width":250,"height":235,"type":"text","text":"# 含混谬误\n>在论证过程中，词或短语的含义会变化，一个词汇在前提中和结论中的意思并不一致，当依赖这样的推论过程时，就会产生含混谬误\n>#书中例子主要是英语环境"},
+		{"id":"ca9c17c96e54238a","x":-578,"y":71,"width":250,"height":278,"type":"text","text":"## 歧义\n#### 举例\n>“你们谁走过这条路？”国王继续走着，并向送信人伸出手要些干草。“没有人(nobody)。”送信人说。“很对，”国王说，“这位年轻的女子也看到过他(him)。所以，当然Nobody比你们走得更慢。”"},
+		{"id":"6f0e59082157cdf6","x":-247,"y":75,"width":250,"height":278,"type":"text","text":"## 双关\n>由于前提的语法结构原因，会导致前提的表达有歧义\n#主要是英语环境"}
+	],
+	"edges":[
+		{"id":"f34b9352ad039aad","fromNode":"53e0942cce20abcf","fromSide":"bottom","toNode":"ca9c17c96e54238a","toSide":"top"},
+		{"id":"09dff3c04c4104da","fromNode":"53e0942cce20abcf","fromSide":"bottom","toNode":"6f0e59082157cdf6","toSide":"top"}
+	]
+}

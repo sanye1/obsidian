@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"192dd1aa86f3bea5","x":-125,"y":-268,"width":250,"height":50,"type":"text","text":"## 女性化妆\n"},
+		{"id":"88a8554627f03ae9","x":-252,"y":-144,"width":400,"height":400,"type":"file","file":"2023-02-16.md"},
+		{"id":"3c52b8fb3a937890","x":277,"y":-218,"width":250,"height":369,"type":"text","text":"## 庄子HD\n#### 户外拍摄前，想好要拍摄什么，想好要说什么，可能这就是脚本吧，\n#### 表达真实的想法会获得更多人的共鸣，人的共鸣大多来源于情感上的共鸣，所以尽量从这方面着手"}
+	],
+	"edges":[
+		{"id":"d0b2851ecd1fc581","fromNode":"192dd1aa86f3bea5","fromSide":"bottom","toNode":"88a8554627f03ae9","toSide":"top"}
+	]
+}

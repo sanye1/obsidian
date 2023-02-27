@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"210879c491ba982d","x":-506,"y":-252,"width":311,"height":197,"type":"text","text":"# 相干谬误\n### 前提与结论没有真实关联，前提并不能支持结论\n"},
+		{"id":"af66ff42be691bd8","x":17,"y":-372,"width":250,"height":207,"type":"text","text":"## 诉诸暴力\n>暴力不仅指武力，也包括财力，权利等\n>一旦对手被说服，他们就会坚持它，儿说服的工具可能被忘却了，这也是这种谬误能起作用的原因"},
+		{"id":"5803780363ba78b6","x":-726,"y":148,"width":294,"height":528,"type":"text","text":"## 诉诸大众\n>#### 通过唤起群众的感情来赢得大众对结论的认同，政客一般采用这种方式去达到目的，爱国主义是最容易被利用的一个因素\n>最严重的诉诸情感是在商业广告中，利用各种暗示、联系达到目的\n\n#### 因为所有人都去做，而你也去做的行为是一种从众谬误\n#### 问卷调查研究的一个问题，使用不同的词语问相同的问题，得到的结果可能会不同，这是因为词语本身带有偏向，负载了情感\n## （很多辩论比赛最后会调动观众的情绪，而忽略其中的逻辑bug,赢得更多的投票）"},
+		{"id":"1d24b458639c5029","x":-382,"y":148,"width":250,"height":244,"type":"text","text":"## 红鲱鱼\n> ### 转移注意力的谬误论证\n#### 举例：悬疑作品为了误导读者，会故意增阿基一些干扰因素"},
+		{"id":"0e766055d95ee5d1","x":-382,"y":481,"width":278,"height":195,"type":"text","text":"## 诉诸情感/诉诸同情\n#### 举例：b站各种up主，利用身患重病的信息获得流量"},
+		{"id":"74fb2c077608480a","x":17,"y":148,"width":250,"height":528,"type":"text","text":"## 稻草人\n> #### 将不同阵营原本复杂的冲突转向新的不同冲突，而不是还停留在原来的饿争论中，把一种普通观点转换为一种极端的观点\n\n#### 举例\n>强调扩大中央政府权力的人会被谬误地指责为在试图将政府转变为能影响到每个人生活方方面面的“专制头目”。这样的“专制头目”仅仅是个稻草人"},
+		{"id":"d4b9043c09cdde66","x":17,"y":-131,"width":250,"height":210,"type":"text","text":"## 诉诸人身\n>除了对对手的不公之外，还会给对手造成个人伤害\n"},
+		{"id":"984e9bae4e7aabcf","x":352,"y":-131,"width":250,"height":144,"type":"text","text":"#### 诽谤\n>在辩论中通过贬低对手的品格，质疑他们的人品等，激起听众对对方的反对态度，从而达到目的"},
+		{"id":"abf83d6b0e8911eb","x":17,"y":-675,"width":250,"height":212,"type":"text","text":"## 不得要领\n>反驳的论点没有针对正在讨论的观点，或者是没有理解提出者的问题\n\n`可以说所有的不相干谬误都是不得要领，前提和结论之间都有缺口`"},
+		{"id":"67f05c6afc8370e5","x":477,"y":148,"width":250,"height":434,"type":"text","text":"#### 背景谬误\n>将一个人的背景当做相反论证的前提\n#### 举例\n>强调扩大中央政府权力的人会被谬误地指责为在试图将政府转变为能影响到每个人生活方方面面的“专制头目”。这样的“专制头目”仅仅是个稻草人\n俄乌战争，记者询问中方为什么不对俄罗斯进行谴责时，中方以‘北约以前随意对别的国家发起战争’为进行反驳。\n"}
+	],
+	"edges":[
+		{"id":"a05eaeea9a3089b8","fromNode":"210879c491ba982d","fromSide":"bottom","toNode":"5803780363ba78b6","toSide":"top"},
+		{"id":"db8dc9fae3d11831","fromNode":"210879c491ba982d","fromSide":"bottom","toNode":"0e766055d95ee5d1","toSide":"top"},
+		{"id":"d7fc4d79fb254b6d","fromNode":"210879c491ba982d","fromSide":"bottom","toNode":"1d24b458639c5029","toSide":"top"},
+		{"id":"47fd6f9de0b94581","fromNode":"210879c491ba982d","fromSide":"bottom","toNode":"74fb2c077608480a","toSide":"left"},
+		{"id":"cb48472058fe1be8","fromNode":"210879c491ba982d","fromSide":"bottom","toNode":"d4b9043c09cdde66","toSide":"left"},
+		{"id":"57550ba1126489cb","fromNode":"210879c491ba982d","fromSide":"right","toNode":"af66ff42be691bd8","toSide":"left"},
+		{"id":"52aa1a53ed855400","fromNode":"210879c491ba982d","fromSide":"right","toNode":"abf83d6b0e8911eb","toSide":"left"},
+		{"id":"89d964dac8a485ed","fromNode":"5803780363ba78b6","fromSide":"right","toNode":"0e766055d95ee5d1","toSide":"left","label":"重合"},
+		{"id":"79ac0b67b89a8d32","fromNode":"d4b9043c09cdde66","fromSide":"right","toNode":"984e9bae4e7aabcf","toSide":"left"},
+		{"id":"0c2c7140e14b3339","fromNode":"984e9bae4e7aabcf","fromSide":"bottom","toNode":"67f05c6afc8370e5","toSide":"top","label":"背景谬误是一种诽谤的特殊情况"}
+	]
+}
