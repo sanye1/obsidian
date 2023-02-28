@@ -11,7 +11,19 @@
             "id": "30b4e6b9f1d8a24f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "video capture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93f6fb8c86096e77",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           },
@@ -25,8 +37,7 @@
                 "viewState": {
                   "x": 0,
                   "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
+                  "zoom": 0
                 }
               }
             }
@@ -41,8 +52,7 @@
                 "viewState": {
                   "x": 0,
                   "y": 0.5,
-                  "zoom": -0.16703594050807533,
-                  "snapToGrid": false
+                  "zoom": -0.16703594050807533
                 }
               }
             }
@@ -57,8 +67,7 @@
                 "viewState": {
                   "x": 614.1554195052827,
                   "y": -32.86022896903745,
-                  "zoom": -1.3379483609398202,
-                  "snapToGrid": false
+                  "zoom": -1.3379483609398202
                 }
               }
             }
@@ -67,20 +76,28 @@
             "id": "42e44d71c6428c03",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "今年预计消费.canvas",
-                "viewState": {
-                  "x": -24.18,
-                  "y": 98.58,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48b706f793e1e33c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "今年预计消费.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "今年预计消费.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "今年预计消费.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -200,26 +213,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "42e44d71c6428c03",
+  "active": "93f6fb8c86096e77",
   "lastOpenFiles": [
-    "未命名.md",
+    "video capture.md",
     "视频系列.canvas",
-    "卡片笔记学习法/意志力.md",
-    "技术观测.md",
-    "卡片笔记学习法/笔记的作用.md",
-    "逻辑导论/含混谬误.canvas",
-    "逻辑导论/图示法.canvas",
-    "逻辑导论/预设谬误.canvas",
+    "今年预计消费.canvas",
+    "卡片笔记学习法.canvas",
+    "逻辑导论.canvas",
+    "平常想法.canvas",
+    "work/后端会自动清除的字段.md",
     "逻辑导论/相干谬误.canvas",
-    "逻辑导论/不当归纳谬误.canvas"
+    "未命名 1.md",
+    "未命名.md"
   ]
 }
