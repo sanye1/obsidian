@@ -62,9 +62,25 @@
                 }
               }
             }
+          },
+          {
+            "id": "42e44d71c6428c03",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "今年预计消费.canvas",
+                "viewState": {
+                  "x": -24.18,
+                  "y": 98.58,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "今年预计消费.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "今年预计消费.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频系列.canvas"
+                "file": "今年预计消费.canvas"
               }
             }
           }
@@ -193,8 +209,10 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a1602bb3e84aa753",
+  "active": "42e44d71c6428c03",
   "lastOpenFiles": [
+    "未命名.md",
+    "视频系列.canvas",
     "卡片笔记学习法/意志力.md",
     "技术观测.md",
     "卡片笔记学习法/笔记的作用.md",
@@ -202,8 +220,6 @@
     "逻辑导论/图示法.canvas",
     "逻辑导论/预设谬误.canvas",
     "逻辑导论/相干谬误.canvas",
-    "逻辑导论/不当归纳谬误.canvas",
-    "逻辑导论.canvas",
-    "卡片笔记学习法.canvas"
+    "逻辑导论/不当归纳谬误.canvas"
   ]
 }
