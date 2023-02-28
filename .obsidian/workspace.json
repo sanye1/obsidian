@@ -55,9 +55,9 @@
               "state": {
                 "file": "视频系列.canvas",
                 "viewState": {
-                  "x": 226.60925490988498,
-                  "y": 101.53158019074529,
-                  "zoom": 0.21148008714119595,
+                  "x": 614.1554195052827,
+                  "y": -32.86022896903745,
+                  "zoom": -1.3379483609398202,
                   "snapToGrid": false
                 }
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#主要是英语环境",
+                "query": "tag:#拍摄注意事",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
