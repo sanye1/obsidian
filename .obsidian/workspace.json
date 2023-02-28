@@ -51,11 +51,15 @@
             "id": "a1602bb3e84aa753",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "卡片笔记学习法/意志力.md",
-                "mode": "source",
-                "source": false
+                "file": "视频系列.canvas",
+                "viewState": {
+                  "x": 226.60925490988498,
+                  "y": 101.53158019074529,
+                  "zoom": 0.21148008714119595,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -126,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卡片笔记学习法/意志力.md",
+                "file": "视频系列.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卡片笔记学习法/意志力.md",
+                "file": "视频系列.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卡片笔记学习法/意志力.md"
+                "file": "视频系列.canvas"
               }
             }
           }
@@ -191,8 +195,8 @@
   },
   "active": "a1602bb3e84aa753",
   "lastOpenFiles": [
-    "技术观测.md",
     "卡片笔记学习法/意志力.md",
+    "技术观测.md",
     "卡片笔记学习法/笔记的作用.md",
     "逻辑导论/含混谬误.canvas",
     "逻辑导论/图示法.canvas",
