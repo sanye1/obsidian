@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "数字游民.canvas",
                 "viewState": {
-                  "x": 277.1252594526661,
-                  "y": -435.15280349555076,
-                  "zoom": -1.4891531524563577
+                  "x": 18.6,
+                  "y": -18.600000000000072,
+                  "zoom": 0
                 }
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "数字游民.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "数字游民.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频系列.canvas"
+                "file": "数字游民.canvas"
               }
             }
           }
@@ -198,8 +198,9 @@
   },
   "active": "30b4e6b9f1d8a24f",
   "lastOpenFiles": [
-    "平常想法.canvas",
     "视频系列.canvas",
+    "数字游民.canvas",
+    "平常想法.canvas",
     "video capture.md",
     "逻辑导论.canvas",
     "未命名.md",
