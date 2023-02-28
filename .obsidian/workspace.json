@@ -11,20 +11,15 @@
             "id": "30b4e6b9f1d8a24f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "video capture.md",
-                "mode": "source",
-                "source": false
+                "file": "视频系列.canvas",
+                "viewState": {
+                  "x": 277.1252594526661,
+                  "y": -435.15280349555076,
+                  "zoom": -1.4891531524563577
+                }
               }
-            }
-          },
-          {
-            "id": "93f6fb8c86096e77",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -71,33 +66,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "42e44d71c6428c03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48b706f793e1e33c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "视频系列.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "视频系列.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "视频系列.canvas"
+              }
             }
           }
         ],
@@ -222,17 +196,18 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "93f6fb8c86096e77",
+  "active": "30b4e6b9f1d8a24f",
   "lastOpenFiles": [
-    "video capture.md",
+    "平常想法.canvas",
     "视频系列.canvas",
+    "video capture.md",
+    "逻辑导论.canvas",
+    "未命名.md",
+    "未命名 1.md",
+    "README.md",
     "今年预计消费.canvas",
     "卡片笔记学习法.canvas",
-    "逻辑导论.canvas",
-    "平常想法.canvas",
     "work/后端会自动清除的字段.md",
-    "逻辑导论/相干谬误.canvas",
-    "未命名 1.md",
-    "未命名.md"
+    "逻辑导论/相干谬误.canvas"
   ]
 }
