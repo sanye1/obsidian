@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"9886d2b221dfb9e6","x":-423,"y":-175,"width":250,"height":133,"type":"text","text":"## 电脑\n## 手机\n预计消费2万\n#尽量买二手\n"}
+		{"type":"text","text":"## 电脑\n## 手机\n预计消费2万\n#尽量买二手\n","id":"9886d2b221dfb9e6","x":-423,"y":-175,"width":250,"height":175}
 	],
 	"edges":[]
 }
