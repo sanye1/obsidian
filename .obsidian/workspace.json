@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "web3.0.canvas",
                 "viewState": {
-                  "x": -15.779720699574483,
-                  "y": -323.91479211815647,
-                  "zoom": -1.356946381487235
+                  "x": 600,
+                  "y": -580,
+                  "zoom": 0
                 }
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "web3.0.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "web3.0.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频系列.canvas"
+                "file": "web3.0.canvas"
               }
             }
           }
@@ -198,6 +198,7 @@
   },
   "active": "30b4e6b9f1d8a24f",
   "lastOpenFiles": [
+    "视频系列.canvas",
     "web3.0.canvas",
     "web2.0.md",
     "video capture.md",
@@ -205,7 +206,6 @@
     "未命名.md",
     "未命名 1.md",
     "平常想法.canvas",
-    "视频系列.canvas",
     "逻辑导论.canvas",
     "README.md",
     "今年预计消费.canvas",
