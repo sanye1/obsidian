@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "web3.0.canvas",
+                "file": "视频系列.canvas",
                 "viewState": {
-                  "x": 500.2553378762766,
-                  "y": -806.8949404813026,
-                  "zoom": 0.2184319406669995
+                  "x": -15.779720699574483,
+                  "y": -323.91479211815647,
+                  "zoom": -1.356946381487235
                 }
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3.0.canvas",
+                "file": "视频系列.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3.0.canvas",
+                "file": "视频系列.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3.0.canvas"
+                "file": "视频系列.canvas"
               }
             }
           }
@@ -198,8 +198,8 @@
   },
   "active": "30b4e6b9f1d8a24f",
   "lastOpenFiles": [
-    "web2.0.md",
     "web3.0.canvas",
+    "web2.0.md",
     "video capture.md",
     "数字游民.canvas",
     "未命名.md",
