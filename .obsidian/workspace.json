@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "波普艺术.canvas",
+                "file": "web3.0.canvas",
                 "viewState": {
-                  "x": -143.92000000000013,
-                  "y": 466.6866406249999,
-                  "zoom": 0
+                  "x": 2348.1566125019626,
+                  "y": -596.3835971709555,
+                  "zoom": -0.8871252508783325
                 }
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "波普艺术.canvas",
+                "file": "web3.0.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "波普艺术.canvas",
+                "file": "web3.0.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "波普艺术.canvas"
+                "file": "web3.0.canvas"
               }
             }
           }
@@ -198,20 +198,25 @@
   },
   "active": "30b4e6b9f1d8a24f",
   "lastOpenFiles": [
-    "Pasted image 20230223105302.png",
-    "波普艺术.canvas",
-    "未命名 1.md",
-    "未命名.md",
-    "web3.0.canvas",
-    "web2.0.md",
-    "卡片笔记学习法.canvas",
-    "平常想法.canvas",
-    "技术观测.md",
     "数字游民.canvas",
+    "未命名.md",
     "视频系列.canvas",
+    "区块链.md",
+    "web3.0资本推手.md",
+    "web3.0特点.md",
+    "web3.0.canvas",
     "逻辑导论.canvas",
-    "今年预计消费.canvas",
+    "卡片笔记学习法/笔记的作用.md",
+    "web2.0.md",
+    "未命名 1.md",
+    "技术观测.md",
     "video capture.md",
+    "卡片笔记学习法/意志力.md",
+    "平常想法.canvas",
+    "波普艺术.canvas",
+    "Pasted image 20230223105302.png",
+    "卡片笔记学习法.canvas",
+    "今年预计消费.canvas",
     "README.md",
     "work/后端会自动清除的字段.md",
     "逻辑导论/相干谬误.canvas"
