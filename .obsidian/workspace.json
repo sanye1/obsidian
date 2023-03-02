@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "web3.0.canvas",
+                "file": "波普艺术.canvas",
                 "viewState": {
-                  "x": 2281.379625394819,
-                  "y": -651.1034908258582,
-                  "zoom": 0.22630514988753328
+                  "x": -123.46,
+                  "y": 371.8266406250001,
+                  "zoom": 0
                 }
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3.0.canvas",
+                "file": "波普艺术.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3.0.canvas",
+                "file": "波普艺术.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3.0.canvas"
+                "file": "波普艺术.canvas"
               }
             }
           }
@@ -198,10 +198,13 @@
   },
   "active": "30b4e6b9f1d8a24f",
   "lastOpenFiles": [
-    "web2.0.md",
-    "web3.0.canvas",
-    "卡片笔记学习法.canvas",
     "Pasted image 20230223105302.png",
+    "波普艺术.canvas",
+    "未命名 1.md",
+    "未命名.md",
+    "web3.0.canvas",
+    "web2.0.md",
+    "卡片笔记学习法.canvas",
     "平常想法.canvas",
     "技术观测.md",
     "数字游民.canvas",
@@ -209,8 +212,6 @@
     "逻辑导论.canvas",
     "今年预计消费.canvas",
     "video capture.md",
-    "未命名.md",
-    "未命名 1.md",
     "README.md",
     "work/后端会自动清除的字段.md",
     "逻辑导论/相干谬误.canvas"
