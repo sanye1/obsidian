@@ -15,9 +15,9 @@
               "state": {
                 "file": "web3.0.canvas",
                 "viewState": {
-                  "x": 414.54071520445405,
-                  "y": -1356.769223076712,
-                  "zoom": -0.7141824500500558
+                  "x": 501,
+                  "y": -340,
+                  "zoom": -1.7988048479840693
                 }
               }
             }
@@ -198,8 +198,8 @@
   },
   "active": "30b4e6b9f1d8a24f",
   "lastOpenFiles": [
-    "web3.0.canvas",
     "web2.0.md",
+    "web3.0.canvas",
     "video capture.md",
     "数字游民.canvas",
     "未命名.md",
