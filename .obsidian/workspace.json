@@ -11,14 +11,11 @@
             "id": "30b4e6b9f1d8a24f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "web3.0.canvas",
-                "viewState": {
-                  "x": 276.3434608116478,
-                  "y": -1483.4103436309717,
-                  "zoom": 0.13622726530973692
-                }
+                "file": "DA0的详细了解.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -133,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web3.0.canvas",
+                "file": "DA0的详细了解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web3.0.canvas",
+                "file": "DA0的详细了解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web3.0.canvas"
+                "file": "DA0的详细了解.md"
               }
             }
           }
@@ -198,8 +195,9 @@
   },
   "active": "30b4e6b9f1d8a24f",
   "lastOpenFiles": [
-    "web2.0.md",
     "web3.0.canvas",
+    "DA0的详细了解.md",
+    "web2.0.md",
     "video capture.md",
     "数字游民.canvas",
     "未命名.md",
