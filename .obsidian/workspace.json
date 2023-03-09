@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "炖锅.canvas",
+                "file": "视频系列.canvas",
                 "viewState": {
-                  "x": -266.7763225617486,
-                  "y": -166.7966981132862,
-                  "zoom": 0.4520024180412292
+                  "x": 1054.7063941605843,
+                  "y": 66.7542901459855,
+                  "zoom": -0.9914846056788948
                 }
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "炖锅.canvas",
+                "file": "视频系列.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "炖锅.canvas",
+                "file": "视频系列.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "炖锅.canvas"
+                "file": "视频系列.canvas"
               }
             }
           }
@@ -183,8 +183,9 @@
   },
   "active": "33c0d4a55ccbdfb4",
   "lastOpenFiles": [
-    "video capture.md",
+    "视频系列.canvas",
     "炖锅.canvas",
+    "video capture.md",
     "DA0的详细了解.md",
     "Pasted image 20230307154541.png",
     "Pasted image 20230223105302.png",
@@ -193,7 +194,6 @@
     "web2.0.md",
     "数字游民.canvas",
     "未命名.md",
-    "视频系列.canvas",
     "区块链.md",
     "web3.0资本推手.md",
     "web3.0特点.md",
