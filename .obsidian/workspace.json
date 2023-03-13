@@ -26,9 +26,11 @@
             "id": "b02e05a36784f8a6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230313184738.png"
+                "file": "镜头语言.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230313184738.png",
+                "file": "镜头语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230313184738.png",
+                "file": "镜头语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230313184738.png"
+                "file": "镜头语言.md"
               }
             }
           }
@@ -194,9 +196,9 @@
   },
   "active": "b02e05a36784f8a6",
   "lastOpenFiles": [
+    "Pasted image 20230313184738.png",
     "Pasted image 20230313163356.png",
     "双拼.md",
-    "Pasted image 20230313184738.png",
     "镜头语言.md",
     "Pasted image 20230307154541.png",
     "Pasted image 20230223105302.png",
