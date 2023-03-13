@@ -26,23 +26,9 @@
             "id": "b02e05a36784f8a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "镜头语言.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18c189eb10f94f20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "镜头语言.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230313184738.png"
               }
             }
           },
@@ -77,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "镜头语言.md",
+                "file": "Pasted image 20230313184738.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "镜头语言.md",
+                "file": "Pasted image 20230313184738.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "镜头语言.md"
+                "file": "Pasted image 20230313184738.png"
               }
             }
           }
@@ -206,8 +192,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "18c189eb10f94f20",
+  "active": "b02e05a36784f8a6",
   "lastOpenFiles": [
+    "Pasted image 20230313163356.png",
+    "双拼.md",
+    "Pasted image 20230313184738.png",
+    "镜头语言.md",
+    "Pasted image 20230307154541.png",
+    "Pasted image 20230223105302.png",
     "Pasted image 20230313163356.png.sb-0cbff6be-CcNmS3",
     "卡片笔记学习法.canvas",
     "今年预计消费.canvas",
@@ -215,10 +207,6 @@
     "炖锅.canvas",
     "技术观测.md",
     "便利店.md",
-    "Pasted image 20230313163356.png",
-    "Pasted image 20230307154541.png",
-    "双拼.md",
-    "镜头语言.md",
     "视频系列.canvas",
     "video capture.md",
     "区块链.md",
@@ -230,7 +218,6 @@
     "work/后端会自动清除的字段.md",
     "web3.0.canvas",
     "DA0的详细了解.md",
-    "Pasted image 20230223105302.png",
     "Pasted image 20230307154520.png",
     "web3.0资本推手.md",
     "web3.0特点.md",
