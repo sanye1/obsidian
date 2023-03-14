@@ -7,7 +7,8 @@
 		{"type":"text","text":"# 总结教程\n\n1 - 探图书馆\n2 - 探自习室\n3 - 总结各个山的特点\n4 - 总结健身房的特点\n5 - 总结游泳馆的特点\n6 - 总结如何\n7 - 第一次一个人去医院\n8 - 第一次一个人骑摩托上高速","id":"2b42a1ab687db0b6","x":160,"y":-293,"width":250,"height":267},
 		{"type":"text","text":"# 拍摄注意事项\n### 1 -  前一天写好脚本\n+ 什么时间该做什么事\n+ 该拍摄什么镜头\n+ 介绍什么内容\n### 严格按照脚本进行\n>#### 尽量拍成系列，长尾效应会比较强\n\n### 如何突出\n\t刚开始利用高频率更新卷死其他人","id":"c53f266a95a611cd","x":480,"y":-293,"width":382,"height":533},
 		{"type":"text","text":"### 别总想着去接，抛才是关键。不断开始新的挑战，不要故步自封；不断提升自己，别总想着完美\n\n### 要是你想改变，就要先从行动开始。只要我们选择了不同的行为模式，心灵便会自我调整以适应这种改变，行动也能保持一致。","id":"4052276fc5257fad","x":960,"y":20,"width":250,"height":440},
-		{"type":"text","text":"## 剪辑\n#### final cat pro\n#### 学习casyVlog","id":"76a145e848b489d4","x":421,"y":460,"width":250,"height":220}
+		{"type":"text","text":"## 剪辑\n#### final cat pro\n#### 学习casyVlog","id":"76a145e848b489d4","x":421,"y":460,"width":250,"height":220},
+		{"type":"text","text":"## 目的\n1 -- 过不一样的生活。体会各种新鲜的事务\n2 -- 赚钱\n3 -- 保存记忆，个人的记录片\n4 -- 提高影响力","id":"c2bda34b6bc75ee3","x":380,"y":-880,"width":262,"height":180}
 	],
 	"edges":[
 		{"id":"d5829e55f2ee1d13","fromNode":"bce4536ef958fa22","fromSide":"bottom","toNode":"2b42a1ab687db0b6","toSide":"bottom","label":"交叉，可以同时进行，同一个素材可以在多个视频中出现"},
@@ -15,6 +16,7 @@
 		{"id":"4159af7714052b42","fromNode":"bff0a9a3b0c8a993","fromSide":"bottom","toNode":"2b42a1ab687db0b6","toSide":"top"},
 		{"id":"704f548cee358d03","fromNode":"bce4536ef958fa22","fromSide":"bottom","toNode":"408c1ab64807bfb9","toSide":"top"},
 		{"id":"d2c367788a42a74a","fromNode":"adae9906a7d2340b","fromSide":"bottom","toNode":"bce4536ef958fa22","toSide":"top"},
-		{"id":"bce2cd1716b1193a","fromNode":"c53f266a95a611cd","fromSide":"bottom","toNode":"76a145e848b489d4","toSide":"top"}
+		{"id":"bce2cd1716b1193a","fromNode":"c53f266a95a611cd","fromSide":"bottom","toNode":"76a145e848b489d4","toSide":"top"},
+		{"id":"1e0d7c214e16740f","fromNode":"bff0a9a3b0c8a993","fromSide":"right","toNode":"c2bda34b6bc75ee3","toSide":"left","label":"目标"}
 	]
 }
