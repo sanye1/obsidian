@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "剪辑.md",
+                "file": "镜头语言.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "剪辑.md",
+                "file": "镜头语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "剪辑.md",
+                "file": "镜头语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "剪辑.md"
+                "file": "镜头语言.md"
               }
             }
           }
@@ -242,16 +242,16 @@
   "active": "cddda4b47ceecb63",
   "lastOpenFiles": [
     "今年预计消费.canvas",
-    "剪辑.md",
     "镜头语言.md",
+    "vlog.md",
+    "视频系列.canvas",
+    "剪辑.md",
     "卡片笔记学习法.canvas",
     "Pasted image 20230314182051.png",
     "炖锅.canvas",
     "技术观测.md",
     "波普艺术.canvas",
     "区块链.md",
-    "视频系列.canvas",
-    "vlog.md",
     "卡片笔记学习法/笔记的作用.md",
     "拍摄规划.md",
     "逻辑导论.canvas",
