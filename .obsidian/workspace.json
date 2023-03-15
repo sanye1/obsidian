@@ -71,14 +71,11 @@
             "id": "cddda4b47ceecb63",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "波普艺术.canvas",
-                "viewState": {
-                  "x": -56.5,
-                  "y": 156,
-                  "zoom": -0.18242939463145136
-                }
+                "file": "镜头语言.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -179,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "波普艺术.canvas",
+                "file": "镜头语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "波普艺术.canvas",
+                "file": "镜头语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "波普艺术.canvas"
+                "file": "镜头语言.md"
               }
             }
           }
@@ -244,37 +241,37 @@
   },
   "active": "cddda4b47ceecb63",
   "lastOpenFiles": [
-    "拍摄规划.md",
-    "卡片笔记学习法.canvas",
-    "镜头语言.md",
-    "file/Pasted image 20230314182051.png",
-    "波普艺术.canvas",
-    "file",
     "技术观测.md",
     "剪辑.md",
     "今年预计消费.canvas",
+    "镜头语言.md",
     "vlog.md",
+    "web2.0.md",
+    "DA0的详细了解.md",
+    "双拼.md",
+    "未命名 1.md",
+    "数字游民.canvas",
+    "逻辑导论.canvas",
+    "波普艺术.canvas",
+    "拍摄规划.md",
+    "卡片笔记学习法.canvas",
+    "file/Pasted image 20230314182051.png",
+    "file",
     "视频系列.canvas",
     "炖锅.canvas",
     "区块链.md",
     "卡片笔记学习法/笔记的作用.md",
-    "逻辑导论.canvas",
     "平常想法.canvas",
-    "数字游民.canvas",
     "file/Pasted image 20230313184738.png",
     "Pasted image 20230313163356.png",
-    "双拼.md",
     "file/Pasted image 20230307154541.png",
     "file/Pasted image 20230223105302.png",
     "Pasted image 20230313163356.png.sb-0cbff6be-CcNmS3",
     "便利店.md",
     "video capture.md",
-    "web2.0.md",
-    "未命名 1.md",
     "卡片笔记学习法/意志力.md",
     "work/后端会自动清除的字段.md",
     "web3.0.canvas",
-    "DA0的详细了解.md",
     "Pasted image 20230307154520.png",
     "web3.0资本推手.md",
     "web3.0特点.md",
