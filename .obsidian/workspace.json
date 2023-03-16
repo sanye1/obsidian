@@ -116,14 +116,11 @@
             "id": "5d1c0d5918ebe019",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "视频系列.canvas",
-                "viewState": {
-                  "x": -147.5,
-                  "y": -218,
-                  "zoom": -0.6974753455933909
-                }
+                "file": "镜头语言.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -194,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "镜头语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "镜头语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频系列.canvas"
+                "file": "镜头语言.md"
               }
             }
           }
@@ -259,11 +256,13 @@
   },
   "active": "5d1c0d5918ebe019",
   "lastOpenFiles": [
+    "卡片笔记学习法.canvas",
+    "剪辑.md",
     "数字游民.canvas",
+    "视频系列.canvas",
     "双拼.md",
     "video capture.md",
     "DA0的详细了解.md",
-    "剪辑.md",
     "未命名 1.md",
     "web3.0资本推手.md",
     "web2.0.md",
@@ -281,10 +280,8 @@
     "今年预计消费.canvas",
     "逻辑导论.canvas",
     "波普艺术.canvas",
-    "卡片笔记学习法.canvas",
     "file/Pasted image 20230314182051.png",
     "file",
-    "视频系列.canvas",
     "炖锅.canvas",
     "平常想法.canvas",
     "file/Pasted image 20230313184738.png",
