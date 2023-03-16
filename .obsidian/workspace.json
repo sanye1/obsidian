@@ -71,11 +71,14 @@
             "id": "cddda4b47ceecb63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "镜头语言.md",
-                "mode": "source",
-                "source": false
+                "file": "逻辑导论/不当归纳谬误.canvas",
+                "viewState": {
+                  "x": 147,
+                  "y": -212,
+                  "zoom": -0.5050378455988073
+                }
               }
             }
           },
@@ -108,9 +111,24 @@
                 }
               }
             }
+          },
+          {
+            "id": "5d1c0d5918ebe019",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "视频系列.canvas",
+                "viewState": {
+                  "x": -147.5,
+                  "y": -218,
+                  "zoom": -0.6974753455933909
+                }
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -176,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "镜头语言.md",
+                "file": "视频系列.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "镜头语言.md",
+                "file": "视频系列.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "镜头语言.md"
+                "file": "视频系列.canvas"
               }
             }
           }
@@ -239,43 +257,43 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "cddda4b47ceecb63",
+  "active": "5d1c0d5918ebe019",
   "lastOpenFiles": [
-    "技术观测.md",
-    "剪辑.md",
-    "今年预计消费.canvas",
-    "镜头语言.md",
-    "vlog.md",
-    "web2.0.md",
-    "DA0的详细了解.md",
-    "双拼.md",
-    "未命名 1.md",
     "数字游民.canvas",
+    "双拼.md",
+    "video capture.md",
+    "DA0的详细了解.md",
+    "剪辑.md",
+    "未命名 1.md",
+    "web3.0资本推手.md",
+    "web2.0.md",
+    "vlog.md",
+    "区块链.md",
+    "技术观测.md",
+    "便利店.md",
+    "镜头语言.md",
+    "work/后端会自动清除的字段.md",
+    "web3.0特点.md",
+    "卡片笔记学习法/笔记的作用.md",
+    "卡片笔记学习法/意志力.md",
+    "拍摄规划.md",
+    "逻辑导论/含混谬误.canvas",
+    "今年预计消费.canvas",
     "逻辑导论.canvas",
     "波普艺术.canvas",
-    "拍摄规划.md",
     "卡片笔记学习法.canvas",
     "file/Pasted image 20230314182051.png",
     "file",
     "视频系列.canvas",
     "炖锅.canvas",
-    "区块链.md",
-    "卡片笔记学习法/笔记的作用.md",
     "平常想法.canvas",
     "file/Pasted image 20230313184738.png",
     "Pasted image 20230313163356.png",
     "file/Pasted image 20230307154541.png",
     "file/Pasted image 20230223105302.png",
     "Pasted image 20230313163356.png.sb-0cbff6be-CcNmS3",
-    "便利店.md",
-    "video capture.md",
-    "卡片笔记学习法/意志力.md",
-    "work/后端会自动清除的字段.md",
     "web3.0.canvas",
     "Pasted image 20230307154520.png",
-    "web3.0资本推手.md",
-    "web3.0特点.md",
-    "README.md",
-    "逻辑导论/相干谬误.canvas"
+    "README.md"
   ]
 }
