@@ -116,16 +116,31 @@
             "id": "5d1c0d5918ebe019",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "今年预计消费.canvas",
+                "viewState": {
+                  "x": -298,
+                  "y": -87.5,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "c90d9e63dee05c12",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "镜头语言.md",
+                "file": "刻意练习.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -191,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "镜头语言.md",
+                "file": "刻意练习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "镜头语言.md",
+                "file": "刻意练习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "镜头语言.md"
+                "file": "刻意练习.md"
               }
             }
           }
@@ -254,8 +269,13 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "5d1c0d5918ebe019",
+  "active": "c90d9e63dee05c12",
   "lastOpenFiles": [
+    "今年预计消费.canvas",
+    "刻意练习.md",
+    "技术观测.md",
+    "炖锅.canvas",
+    "镜头语言.md",
     "卡片笔记学习法.canvas",
     "剪辑.md",
     "数字游民.canvas",
@@ -268,21 +288,17 @@
     "web2.0.md",
     "vlog.md",
     "区块链.md",
-    "技术观测.md",
     "便利店.md",
-    "镜头语言.md",
     "work/后端会自动清除的字段.md",
     "web3.0特点.md",
     "卡片笔记学习法/笔记的作用.md",
     "卡片笔记学习法/意志力.md",
     "拍摄规划.md",
     "逻辑导论/含混谬误.canvas",
-    "今年预计消费.canvas",
     "逻辑导论.canvas",
     "波普艺术.canvas",
     "file/Pasted image 20230314182051.png",
     "file",
-    "炖锅.canvas",
     "平常想法.canvas",
     "file/Pasted image 20230313184738.png",
     "Pasted image 20230313163356.png",
