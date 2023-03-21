@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2de9b67c3757958d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刻意练习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -269,10 +281,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c90d9e63dee05c12",
+  "active": "2de9b67c3757958d",
   "lastOpenFiles": [
-    "今年预计消费.canvas",
+    "跑步.md",
     "刻意练习.md",
+    "今年预计消费.canvas",
     "技术观测.md",
     "炖锅.canvas",
     "镜头语言.md",
