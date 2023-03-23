@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "视频选题.canvas",
                 "viewState": {
                   "x": 582.6586126412952,
                   "y": 372.2517171895237,
@@ -28,7 +28,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "视频选题.canvas",
                 "viewState": {
                   "x": 337.92423357664217,
                   "y": -166.0096350364962,
@@ -43,7 +43,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "视频选题.canvas",
                 "viewState": {
                   "x": 252.5,
                   "y": -100,
@@ -58,7 +58,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "视频选题.canvas",
                 "viewState": {
                   "x": 327.51884057756774,
                   "y": -421.14206868737705,
@@ -103,7 +103,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "视频系列.canvas",
+                "file": "视频选题.canvas",
                 "viewState": {
                   "x": 614.1554195052827,
                   "y": -32.86022896903745,
@@ -143,11 +143,14 @@
             "id": "2de9b67c3757958d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "刻意练习.md",
-                "mode": "source",
-                "source": false
+                "file": "视频选题.canvas",
+                "viewState": {
+                  "x": 1907.3757232112619,
+                  "y": -653.363539910071,
+                  "zoom": -1.0880980408321472
+                }
               }
             }
           }
@@ -218,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刻意练习.md",
+                "file": "视频选题.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刻意练习.md",
+                "file": "视频选题.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刻意练习.md"
+                "file": "视频选题.canvas"
               }
             }
           }
@@ -283,8 +286,10 @@
   },
   "active": "2de9b67c3757958d",
   "lastOpenFiles": [
-    "跑步.md",
+    "拍摄规划.md",
+    "视频选题.canvas",
     "刻意练习.md",
+    "跑步.md",
     "今年预计消费.canvas",
     "技术观测.md",
     "炖锅.canvas",
@@ -292,7 +297,6 @@
     "卡片笔记学习法.canvas",
     "剪辑.md",
     "数字游民.canvas",
-    "视频系列.canvas",
     "双拼.md",
     "video capture.md",
     "DA0的详细了解.md",
@@ -306,7 +310,6 @@
     "web3.0特点.md",
     "卡片笔记学习法/笔记的作用.md",
     "卡片笔记学习法/意志力.md",
-    "拍摄规划.md",
     "逻辑导论/含混谬误.canvas",
     "逻辑导论.canvas",
     "波普艺术.canvas",
