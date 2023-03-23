@@ -143,19 +143,28 @@
             "id": "2de9b67c3757958d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "平常想法.canvas",
-                "viewState": {
-                  "x": 71,
-                  "y": -102.5,
-                  "zoom": 0
-                }
+                "file": "跑步.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8b1d90c943b7210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "腘绳肌锻炼.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -184,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#拍摄注意事",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "平常想法.canvas",
+                "file": "腘绳肌锻炼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "平常想法.canvas",
+                "file": "腘绳肌锻炼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "平常想法.canvas"
+                "file": "腘绳肌锻炼.md"
               }
             }
           }
@@ -284,17 +293,18 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "2de9b67c3757958d",
+  "active": "f8b1d90c943b7210",
   "lastOpenFiles": [
     "跑步.md",
+    "腘绳肌锻炼.md",
     "平常想法.canvas",
+    "镜头语言.md",
     "视频选题.canvas",
     "拍摄规划.md",
     "刻意练习.md",
     "今年预计消费.canvas",
     "技术观测.md",
     "炖锅.canvas",
-    "镜头语言.md",
     "卡片笔记学习法.canvas",
     "剪辑.md",
     "数字游民.canvas",
