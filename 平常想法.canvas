@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"5a1377a30b177a12","x":-218,"y":-287,"width":328,"height":369,"type":"file","file":"video capture.md"}
+		{"type":"file","file":"video capture.md","id":"5a1377a30b177a12","x":-218,"y":-287,"width":328,"height":369},
+		{"id":"d31c19bf1cc5a1b4","x":110,"y":-287,"width":250,"height":119,"type":"text","text":"### 一件普通的事加上时间的力量就会变得很强"}
 	],
 	"edges":[]
 }

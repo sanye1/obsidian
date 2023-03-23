@@ -145,11 +145,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "视频选题.canvas",
+                "file": "平常想法.canvas",
                 "viewState": {
-                  "x": 1543.7420319793418,
-                  "y": -680.5052460773542,
-                  "zoom": -0.22715728163719145
+                  "x": 71,
+                  "y": -102.5,
+                  "zoom": 0
                 }
               }
             }
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "视频选题.canvas",
+                "file": "平常想法.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "视频选题.canvas",
+                "file": "平常想法.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频选题.canvas"
+                "file": "平常想法.canvas"
               }
             }
           }
@@ -286,10 +286,11 @@
   },
   "active": "2de9b67c3757958d",
   "lastOpenFiles": [
-    "拍摄规划.md",
-    "视频选题.canvas",
-    "刻意练习.md",
     "跑步.md",
+    "平常想法.canvas",
+    "视频选题.canvas",
+    "拍摄规划.md",
+    "刻意练习.md",
     "今年预计消费.canvas",
     "技术观测.md",
     "炖锅.canvas",
@@ -315,7 +316,6 @@
     "波普艺术.canvas",
     "file/Pasted image 20230314182051.png",
     "file",
-    "平常想法.canvas",
     "file/Pasted image 20230313184738.png",
     "Pasted image 20230313163356.png",
     "file/Pasted image 20230307154541.png",
