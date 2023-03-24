@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "腘绳肌锻炼.md",
+                "file": "剪辑.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "腘绳肌锻炼.md",
+                "file": "剪辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "腘绳肌锻炼.md",
+                "file": "剪辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "腘绳肌锻炼.md"
+                "file": "剪辑.md"
               }
             }
           }
@@ -295,8 +295,9 @@
   },
   "active": "f8b1d90c943b7210",
   "lastOpenFiles": [
-    "file/Pasted image 20230323172330.png",
+    "技术观测.md",
     "腘绳肌锻炼.md",
+    "file/Pasted image 20230323172330.png",
     "跑步.md",
     "平常想法.canvas",
     "镜头语言.md",
@@ -304,7 +305,6 @@
     "拍摄规划.md",
     "刻意练习.md",
     "今年预计消费.canvas",
-    "技术观测.md",
     "炖锅.canvas",
     "卡片笔记学习法.canvas",
     "剪辑.md",
